@@ -1,0 +1,9 @@
+# VS Code Settings
+.vscode
+
+# Generated PyCache
+__pycache__
+
+# Environment Scripts
+*.sh
+!entrypoint.sh
