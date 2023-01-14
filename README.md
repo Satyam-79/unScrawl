@@ -24,8 +24,9 @@ This repository contains the code for a deep learning-based application for impr
 git clone https://github.com/Satyam-79/unScrawl.git
 ```
 2. Navigate to the project directory
+```
 cd unScrawl
-
+```
 3. Create and activate a virtual environment
 ```
 python -m venv env
@@ -35,6 +36,8 @@ source env/bin/activate
 Navigate to the backend directory
 ```
 cd backend
+```
+```
 pip install -r requirements.txt
 ```
 5. Run the app
@@ -49,7 +52,7 @@ flask run
     $ flutter pub get
     $ flutter run
     ```
-7. Open your browser and navigate to http://localhost:5000 to access the app
+7. Open your browser and navigate to http://localhost:5000 to check the API is active
 
 ## CI/CD
 This project uses GitHub Workflows for continuous integration and delivery. The pipeline includes steps for linting, testing, and deploying the app to Azure Container Instances.
