@@ -1,4 +1,4 @@
-# Penmanship Improvement App
+# Handwriting Assessment & Improvement App
 
 ## unSCRAWL
 
