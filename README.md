@@ -27,7 +27,9 @@ https://github.com/Satyam-79/unScrawl/assets/70771653/a612ad50-9b3a-4555-b51f-ba
 
 https://github.com/Satyam-79/unScrawl/assets/70771653/f323d32d-ba6b-430f-82dd-1cdbfd176007
 
-### - Teacher's Insight: Monitoring Student Performance and Rankings
+### - Teacher's Dashboard: Monitoring Student Performance and Rankings
+
+https://github.com/Satyam-79/unScrawl/assets/70771653/66e5eca8-fd2c-46f9-af8c-45a0dfe6f85f
 
 
 ## How to Run
@@ -67,4 +69,4 @@ flask run
 7. Open your browser and navigate to http://localhost:5000 to check the API is active
 
 ## CI/CD
-This project uses GitHub Workflows for continuous integration and delivery. The pipeline includes steps for linting, testing, and deploying the app to Azure Container Instances.
+This project uses GitHub Workflows for continuous integration and delivery. The pipeline includes steps for deploying the app to Azure Container Instance.
