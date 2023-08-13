@@ -18,6 +18,18 @@ This repository contains the code for a deep learning-based application for impr
 - Insights on handwriting and progress tracking
 - User-friendly interface for teachers and students
 
+## Demo: Videos
+### - Student Dashboard: Uploading Handwritten Page
+
+https://github.com/Satyam-79/unScrawl/assets/70771653/a612ad50-9b3a-4555-b51f-ba660008495e
+
+### - Student Dashboard: Exploring Results & Uploaded Pages
+
+https://github.com/Satyam-79/unScrawl/assets/70771653/f323d32d-ba6b-430f-82dd-1cdbfd176007
+
+### - Teacher's Insight: Monitoring Student Performance and Rankings
+
+
 ## How to Run
 1. Clone the repository to your local machine
 ```
